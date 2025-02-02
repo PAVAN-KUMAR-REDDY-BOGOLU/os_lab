@@ -106,7 +106,7 @@
 ### CAT >> COMMAND MANUAL 
 ![cat >> command manual](mcat.png)
 ### CP COMMAND OUTPUT
-![cp command output](cp.png)
+![cp command output](cp_options.png)
 ### CP COMMAND MANUAL
 ![cp command manual](mcp.png)
 ### CP -I COMMAND OUTPUT
@@ -130,7 +130,7 @@
 ### RM FILE COMMAND MANUAL
 ![rm  command manual](mrm.png)
 ### RM * COMMAND OUTPUT
-![rm * command output](rm1.png)
+![rm * command output](rm_options.png)
 ### RM * COMMAND MANUAL
 ![rm * command manual](mrm.png)
 ### RM -R * COMMAND OUTPUT
