@@ -1,4 +1,3 @@
-
 # BASIC UNIX COMMANDS PRACTISE OUTPUT
 ## GENERAL  COMMANDS OUTPUTS 
 ### DATE COMMAND OUTPUT
@@ -34,7 +33,7 @@
 ### WHO COMMAND MANUAL
 ![who command manual](mwho.png)
 ### WHO AM I COMMAND OUTPUT 
-![who am i command output](whoami.png)
+![who am i command output](who.png)
 ### WHO AM I COMMAND MANUAL
 ![who am i command manual](mwhoami.png)
 ### TTY COMMAND OUTPUT -TERMINAL NAME-
@@ -46,11 +45,11 @@
 ### UNAME COMMAND MANUAL
 ![uname command manual](muname.png)
 ### UNAME-R COMMAND OUTPUT
-![uname-r command output](uname1.png)
+![uname-r command output](uname-r.png)
 ### UNAME-R COMMAND MANUAL
 ![uname-r command manual](muname1.png)
 ### UNAME-N COMMAND OUTPUT
-![uname-n command output](uname2.png)
+![uname-n command output](uname-n.png)
 ### UNAME-N COMMAND MANUAL
 ![uname-n command manual](muname2.png)
 ### ECHO COMMAND OUTPUT
@@ -103,7 +102,7 @@
 ### CAT COMMAND MANUAL
 ![cat command manual](mcat.png)
 ### CAT >> COMMAND OUTPUT
-![cat >> command output](cat2.png)
+![cat >> command output](cat.png)
 ### CAT >> COMMAND MANUAL 
 ![cat >> command manual](mcat.png)
 ### CP COMMAND OUTPUT
@@ -179,4 +178,3 @@
 
 
 # The Study And Execution Of Unix Commands Has Been Completed Successfully.
-
