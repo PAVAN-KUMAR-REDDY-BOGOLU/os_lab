@@ -150,11 +150,11 @@
 ### LS NAME * COMMAND MANUAL
 ![ls name command manual](mls.png)
 ### LS - A COMMAND OUTPUT
-![ls - a command output](ls-a.png)
+![ls - a command output](ls_options.png)
 ### LS - A COMMAND MANUAL
 ![ls -a command manual](mls.png)
 ### LS -X DIR NAME COMMAND OUTPUT
-![ls -x dir command output](lsdir.png)
+![ls -x dir command output](ls.png)
 ### LS - X DIR NAME COMMAND MANUAL
 ![ls -x dir command manual](mls.png)
 ### LS -R COMMAND OUTPUT
