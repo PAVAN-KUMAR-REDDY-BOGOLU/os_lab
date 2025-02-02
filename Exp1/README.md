@@ -53,11 +53,11 @@
 ### UNAME-N COMMAND MANUAL
 ![uname-n command manual](muname2.png)
 ### ECHO COMMAND OUTPUT
-![echo command output](echo.png)
+![echo command output](echo"txt".png)
 ### ECHO COMMAND MANUAL
 ![echo command manual](mecho.png)
 ### ECHO $ COMMAND OUTPUT
-![echo $ command output](echo1.png)
+![echo $ command output](echo"Home".png)
 ### ECHO $ COMMAND MANUAL 
 ![echo $ command manual](mecho1.png)
 ### BC - BASIC CALCULATOR COMMAND OUTPUT
