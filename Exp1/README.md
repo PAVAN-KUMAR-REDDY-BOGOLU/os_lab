@@ -98,11 +98,11 @@
 ![rmdir command manual](mrmdir.png)
 ## FILE COMMANDS
 ### CAT COMMAND OUTPUT
-![cat command output](cat.png)
+![cat command output](cat_cmp.png)
 ### CAT COMMAND MANUAL
 ![cat command manual](mcat.png)
 ### CAT >> COMMAND OUTPUT
-![cat >> command output](cat.png)
+![cat >> command output](cat_options.png)
 ### CAT >> COMMAND MANUAL 
 ![cat >> command manual](mcat.png)
 ### CP COMMAND OUTPUT
@@ -146,15 +146,15 @@
 ### LS COMMAND MANUAL
 ![ls command manual](mls.png)
 ### LS NAME * COMMAND OUTPUT
-![ls name command output](ls1.png)
+![ls name command output](ls.png)
 ### LS NAME * COMMAND MANUAL
 ![ls name command manual](mls.png)
 ### LS - A COMMAND OUTPUT
-![ls - a command output](ls2.png)
+![ls - a command output](ls-a.png)
 ### LS - A COMMAND MANUAL
 ![ls -a command manual](mls.png)
 ### LS -X DIR NAME COMMAND OUTPUT
-![ls -x dir command output](ls3.png)
+![ls -x dir command output](lsdir.png)
 ### LS - X DIR NAME COMMAND MANUAL
 ![ls -x dir command manual](mls.png)
 ### LS -R COMMAND OUTPUT
@@ -166,7 +166,7 @@
 ### LS -L COMMAND MANUAL
 ![ls -l command manual](mls.png)
 ### CMP COMMAND OUTPUT
-![cmp command output](cmp.png)
+![cmp command output](cat_cmp.png)
 ### CMP COMMAND MANUAL
 ![cmp command manual](mcmp.png)
 ### CHMOD COMMAND OUTPUT
