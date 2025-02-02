@@ -53,11 +53,11 @@
 ### UNAME-N COMMAND MANUAL
 ![uname-n command manual](muname2.png)
 ### ECHO COMMAND OUTPUT
-![echo command output](echo"txt".png)
+![echo command output](echo_txt_.png)
 ### ECHO COMMAND MANUAL
 ![echo command manual](mecho.png)
 ### ECHO $ COMMAND OUTPUT
-![echo $ command output](echo"Home".png)
+![echo $ command output](echo_options.png)
 ### ECHO $ COMMAND MANUAL 
 ![echo $ command manual](mecho1.png)
 ### BC - BASIC CALCULATOR COMMAND OUTPUT
@@ -89,7 +89,7 @@
 ### CD SUBDIR COMMAND MANUAL
 ![cd command manual](mcd.png)
 ### CD .. COMMAND OUTPUT
-![cd .. command output](cd1.png)
+![cd .. command output](cd...png)
 ### CD .. COMMAND MANUAL
 ![cd .. command manual](mcd1.png)
 ### RMDIR COMMAND OUTPUT
