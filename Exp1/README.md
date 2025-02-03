@@ -154,7 +154,7 @@
 ### LS - A COMMAND MANUAL
 ![ls -a command manual](mls.png)
 ### LS -X DIR NAME COMMAND OUTPUT
-![ls -x dir command output](ls.png)
+![ls -x dir command output](lsX.png)
 ### LS - X DIR NAME COMMAND MANUAL
 ![ls -x dir command manual](mls.png)
 ### LS -R COMMAND OUTPUT
